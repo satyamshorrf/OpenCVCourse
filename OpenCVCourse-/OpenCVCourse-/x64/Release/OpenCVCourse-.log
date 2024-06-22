@@ -1,0 +1,2 @@
+﻿  Chapter4.cpp
+C:\Users\satya\Source\Repos\OpenCVCourse-\OpenCVCourse-\Chapter4.cpp(1,10): error C1083: Cannot open include file: 'opencv2/imgcodecs.hpp': No such file or directory
